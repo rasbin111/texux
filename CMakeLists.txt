@@ -11,5 +11,5 @@ file(GLOB_RECURSE SOURCES
 
 add_executable(texux ${SOURCES})
 
-target_include_directories(texux PRIVATE src)
+target_include_directories(texux PRIVATE include)
 target_link_libraries(texux PRIVATE raylib)
