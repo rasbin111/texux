@@ -11,3 +11,6 @@ A UI based text editor built using C.
 3. Go to build and run `cmake ..`
 4. Inside build dir, run `make`
 5. Run './texux'
+
+# Special Thanks
+- Vim and Neovim, as I am using these editors for building this editor
