@@ -1,0 +1,17 @@
+# Executables
+a.out
+texux
+
+# Text files except cmake file
+*.txt
+!CMakeLists.txt
+
+# Other test files
+*.py
+*.zig
+*.js
+*.ts
+*.tsx
+
+# Build
+build/
